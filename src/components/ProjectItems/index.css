@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+.project-list-style {
+  list-style-type: none;
+  box-shadow: 0px 1px 5px 0px;
+  width: 200px;
+  height: 200px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+.img {
+  width: 100%;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.name {
+  font-size: 16px;
+  text-align: center;
+  font-family: 'Roboto';
+  padding-bottom: 10px;
+}
